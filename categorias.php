@@ -52,7 +52,6 @@
 
 <section id="main">
 
-<h1 href="categorias.php?id=<?php echo $value['id'];?>"><?php echo $value["categoria"];?></h1>
   <div class="episodes">
 
 
